@@ -1,4 +1,4 @@
-## Instll MkDocs
+## Install MkDocs
 You should now have the mkdocs command installed on your system. Run 'mkdocs
 --version' to check that everything worked okay.
 
